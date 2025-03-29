@@ -31,10 +31,6 @@ Interface interativa com Jupyter (ou opcional com Flask para versão web)
 # 📁 Estrutura do projeto
 ```
 📦 TCC-Astronomia-Python
- ┣ 📂 data/               → arquivos de entrada (CSV, JSON, etc)
- ┣ 📂 notebooks/          → análises e protótipos em Jupyter
- ┣ 📂 src/                → scripts principais em Python
- ┣ 📂 reports/            → gráficos gerados, PDFs e relatórios
  ┣ 📂 casos/              → Arquivos gerados a partir dos scripts
  ┣ README.md              → documentação do projeto
  ┣ modelo.py              → gera modelos de acordo com as regras da lei de Schwarzschild
